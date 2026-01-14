@@ -34,7 +34,7 @@ export default function Footer() {
                 </div>
             </div>
             <p className="pt-4 text-center pb-5">
-                Copyright 2024 © <a href="https://prebuiltui.com?utm_source=saasly">PrebuiltUI</a>. All Right Reserved.
+                Copyright 2024 © <a href="https://prebuiltui.com?utm_source=saasly" target="_blank">PrebuiltUI</a>. All Right Reserved. Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
             </p>
         </footer>
     );
