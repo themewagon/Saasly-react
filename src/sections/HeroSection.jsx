@@ -29,7 +29,7 @@ export default function HeroSection() {
                     <span>AI Features</span>
                 </button>
             </div>
-            <img className="w-full max-w-xl mt-16 drop-shadow-2xl drop-shadow-blue-500/15 mx-auto" src="/assets/hero-section-card-image.svg" alt="Hero Section Card Image" width={1000} height={500} fetchPriority="high" />
+            <img className="w-full max-w-xl mt-16 drop-shadow-2xl drop-shadow-blue-500/15 mx-auto" src="./assets/hero-section-card-image.svg" alt="Hero Section Card Image" width={1000} height={500} fetchPriority="high" />
         </div>
     );
 }
